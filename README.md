@@ -1,4 +1,4 @@
-# Ryubing Compatibilty Tracker
+# Ryubing Compatibility Tracker
 This repository is the dedicated compatibility tracker for the [Ryubing](https://ryujinx.app) project.
 
 [Click here](https://github.com/Ryubing/Compatibilty/issues/new/choose) to open an issue for a new game.
