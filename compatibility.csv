@@ -1847,7 +1847,7 @@
 01004B7009F00000,"Miles & Kilo",,playable,2020-10-22 11:39:49
 0100976008FBE000,"Millie",,playable,2021-01-26 20:47:19
 0100F5700C9A8000,"MIND: Path to Thalamus",UE4,playable,2021-06-16 17:37:25
-0100D71004694000,"Minecraft",crash,nothing,2026-06-06 22:05:00
+0100D71004694000,"Minecraft",crash;ldn-broken;online-services,nothing,2026-06-06 22:05:00
 01006C100EC08000,"Minecraft Dungeons",nvdec;online-broken;UE4,playable,2024-06-26 22:10:43
 01007C6012CC8000,"Minecraft Legends",gpu;crash,ingame,2024-03-04 00:32:24
 01006BD001E06000,"Minecraft: Nintendo Switch Edition",ldn-broken,playable,2023-10-15 01:47:08
